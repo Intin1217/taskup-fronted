@@ -44,7 +44,6 @@ export default function CalenderView() {
       console.log('CALENDER VIEW DATA CALL ERROR', error);
     }
   };
-  callCalenderEventData().catch(console.error);
   //버튼 별 커스텀
   useEffect(() => {
     callCalenderEventData().catch(console.error);
