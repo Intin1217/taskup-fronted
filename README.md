@@ -1,5 +1,7 @@
 1차 프로젝트 
 
+시연영상: https://www.youtube.com/watch?v=MQrHQkgr8G8
+
 메인화면 담당 - 박주호
 ## 메인화면
 - 메인화면 UI
